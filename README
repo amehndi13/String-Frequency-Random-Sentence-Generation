@@ -1,0 +1,27 @@
+README 600.120 Spring 2015
+JHED: amehndi1
+Name: Anuj Mehndiratta
+Date: April 2, 2016
+
+This is a C++ project that uses containers and make use of randomization.
+
+In order to test my code please follow these steps. I have created the desired output files
+that my programs should generate based on the test files which test different cases. The test
+code just makes sure that my desired output files are also the files that my program creates.
+
+Testing hw4a
+1. run the command make hw4a
+2. run the command ./hw4a a < test1a.txt > output1a.txt
+3. run the command ./hw4a a < test2a.txt > output2a_versiona.txt
+4. run the command ./hw4a c < test2a.txt > output2a_versionc.txt
+5. run the command ./hw4a r < test2a.txt > output2a_versionr.txt
+6. run the command make test_hw4a
+7. run the command ./test_hw4a (this should print success to the console)
+
+Testing hw4b
+1. run the command make hw4b
+2. run the command ./hw4b 10 < test1b.txt > output1b.txt
+3. run the command ./hw4a 10 < test2b.txt > output2b.txt
+6. run the command make test_hw4b
+7. run the command ./test_hw4b (this should print success to the console)
+

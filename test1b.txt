@@ -1,0 +1,12 @@
+<START> he 1
+good in 1
+he thought 1
+his mouth 1
+in his 1
+mouth <END> 1
+sandwich tasted 1
+tasted very 1
+that the 1
+the sandwich 1
+thought that 1
+very good 1

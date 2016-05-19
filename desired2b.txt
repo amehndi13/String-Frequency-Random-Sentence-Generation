@@ -1,0 +1,10 @@
+<START> sally sells by the sea shore and bill sells by the blankets shells sally sells by the sells by bill sells by the sea shore and bill sells by the sells by the blankets shells sally sells by the sells blankets shells sally sells blankets shells sea shore which is by the sea shore and bill sells by the sea shore and bill sells by the sea shells sally sells by the sea shore which is by the blankets shells sea shells sally sells blankets shells sea shells sally sells by the sells<END>
+<START> sally sells by the blankets shells sally sells blankets shells sea shore which is by the sea shells sea shore which is by the sea shore and bill sells by the blankets shells sally sells<END>
+<START> sally sells by the sea shore and bill sells<END>
+<START> sally sells blankets shells sally sells by the blankets by bill sells<END>
+<START> sally sells by the sells by the sells by bill sells blankets shells sally sells<END>
+<START> sally sells by bill sells blankets by the sea shore and bill sells<END>
+<START> sally sells by the sea shore and bill sells<END>
+<START> sally sells<END>
+<START> sally sells<END>
+<START> sally sells by bill sells<END>
